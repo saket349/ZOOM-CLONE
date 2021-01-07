@@ -1,2 +1,2 @@
 # Node JS Zoom Clone
-<a href="azoom.herokuapp.com">link</a>
+<a href="https://azoom.herokuapp.com/">link</a>
